@@ -1,9 +1,11 @@
 ---
 ---
-# Under Construction
-Please check back later.
+# Varian Developer
+Please be patient while we build out our content.
 
 ## What's New
+**04/04/2018** We've moved from CodePlex to GitHub, stay tuned! ([CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper))
+
 **06/29/2017** Quick Start with ESAPIX posted on Youtube.
 
 **04/24/2017** Async and await in ESAPI posted on Youtube.
@@ -21,8 +23,6 @@ Please check back later.
 **10/07/2015** See Advanced ESAPI #1 on Youtube and source code on Oncopeer.com
 
 **06/10/2015** Eclipse Scripting REPL (UAB VMS Console) Video and Source Code Posted
-
-[CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper)
 
 ---
 [Github Pages](https://pages.github.com) provide a simple way to make a
