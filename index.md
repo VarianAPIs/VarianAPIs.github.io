@@ -1,6 +1,6 @@
 ---
 ---
-# Varian Developer
+# Welcome
 Please be patient while we build out our content. For now you can explore our repos here: [https://github.com/VarianAPIs](https://github.com/VarianAPIs)
 
 ## What's New
