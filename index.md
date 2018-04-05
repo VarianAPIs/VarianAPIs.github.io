@@ -1,7 +1,7 @@
 ---
 ---
 # Varian Developer
-Please be patient while we build out our content.
+Please be patient while we build out our content. For now you can explore our repos here: https://github.com/VarianAPIs
 
 ## What's New
 **04/04/2018** We've moved from CodePlex to GitHub, stay tuned! ([CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper))
