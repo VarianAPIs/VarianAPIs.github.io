@@ -4,7 +4,7 @@
 Please check back soon. We will be building out our content in the upcoming months. For now, you can explore our code samples here: [https://github.com/VarianAPIs/samples](https://github.com/VarianAPIs/samples)
 
 ## What's New
-**04/30/2018** New pages added: [Varian Developer Resources](resources) and [Getting Started with Eclipse Scripting](getting_started)
+**04/30/2018** New pages added: [Varian Developer Resources](developer_resources) and [Getting Started with Eclipse Scripting](getting_started)
 
 **04/04/2018** We've moved from CodePlex to GitHub, stay tuned! ([CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper))
 
