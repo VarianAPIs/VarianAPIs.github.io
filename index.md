@@ -1,6 +1,7 @@
 ---
 ---
-# SAVE THE DATE 
+# SAVE THE DATE! 
+## July 26th - 28th
 Plan your arrival early for the AAPM 2018 Annual Meeting to attend the **Varian Developer Workshop**.
 Interact with experts from Varian and the community. 
 This 2-day event involves hands-on training on hot topics, group exercises, presentations and the developer challenge. 
