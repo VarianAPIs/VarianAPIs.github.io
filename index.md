@@ -1,15 +1,5 @@
 ---
 ---
-# SAVE THE DATE! 
-## July 26th - 28th
-Plan your arrival early for the AAPM 2018 Annual Meeting to attend the **Varian Developer Workshop**.
-Interact with experts from Varian and the community. 
-This 2-day event involves hands-on training on hot topics, group exercises, presentations and the developer challenge. 
-There is a fee to attend and attendance is limited.
-For more information, [click here](http://storage.pardot.com/30902/157122/DeveloperWorkshop2018_1b.pdf) or contact developer.workshop@varian.com.
-[Registration is now open](http://varian.cvent.com/events/developer-workshop-2018-nashville-tn/event-summary-a2fff2571314436dbc1f2de8de6ca7ec.aspx).
-
-
 # Welcome
 Please check back soon. We will be building out our content in the upcoming months. For now, you can explore our code samples here: [https://github.com/VarianAPIs/samples](https://github.com/VarianAPIs/samples)
 
