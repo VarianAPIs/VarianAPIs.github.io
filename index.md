@@ -1,23 +1,23 @@
 ---
 ---
 # Welcome
-Please check back often. We will be building out our content in the upcoming months.
+Please check back often. We will be building out our content in the upcoming months. We are also building out content on [our Wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wiki).
 
-## Varian Developer Support
+### Varian Developer Support
 Please [create a new issue in our Varian Code Samples repo](https://github.com/VarianAPIs/Varian-Code-Samples/issues/new) or e-mail eclipsedeveloper@varian.com. Stay tuned for our new "live chat" gitter community.
 
-## Varian Code Samples
+### Varian Code Samples
 Explore our code samples from past webinars and workshops here: [https://github.com/VarianAPIs/Varian-Code-Samples](https://github.com/VarianAPIs/Varian-Code-Samples)
 
-## Velocity Engine
+### Velocity Engine
 Python and C# Velocity Scripting API clients: [https://github.com/VarianAPIs/VelocityEngine](https://github.com/VarianAPIs/VelocityEngine)
 
-## PyESAPI
+### PyESAPI
 Python interface to Eclipse Scripting API: [https://github.com/VarianAPIs/PyESAPI](https://github.com/VarianAPIs/PyESAPI)
 #notironpython
 
 ## What's New
-**04/30/2018** New pages added: [Varian Developer Resources](developer_resources) and [Getting Started with Eclipse Scripting](getting_started)
+**08/02/2018** Wiki Restored from CodePlex: [https://github.com/VarianAPIs/Varian-Code-Samples/wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wiki)
 
 **04/04/2018** We've moved from CodePlex to GitHub, stay tuned! ([CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper))
 
