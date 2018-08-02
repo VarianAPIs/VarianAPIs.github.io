@@ -1,7 +1,20 @@
 ---
 ---
 # Welcome
-Please check back soon. We will be building out our content in the upcoming months. For now, you can explore our code samples here: [https://github.com/VarianAPIs/samples](https://github.com/VarianAPIs/samples)
+Please check back often. We will be building out our content in the upcoming months.
+
+## Varian Developer Support
+Please [create a new issue in our Varian Code Samples repo](https://github.com/VarianAPIs/Varian-Code-Samples/issues/new) or e-mail eclipsedeveloper@varian.com. Stay tuned for our new "live chat" gitter community.
+
+## Varian Code Samples
+Explore our code samples from past webinars and workshops here: [https://github.com/VarianAPIs/Varian-Code-Samples](https://github.com/VarianAPIs/Varian-Code-Samples)
+
+## Velocity Engine
+Python and C# Velocity Scripting API clients: [https://github.com/VarianAPIs/VelocityEngine](https://github.com/VarianAPIs/VelocityEngine)
+
+## PyESAPI
+Python interface to Eclipse Scripting API: [https://github.com/VarianAPIs/PyESAPI](https://github.com/VarianAPIs/PyESAPI)
+#notironpython
 
 ## What's New
 **04/30/2018** New pages added: [Varian Developer Resources](developer_resources) and [Getting Started with Eclipse Scripting](getting_started)
