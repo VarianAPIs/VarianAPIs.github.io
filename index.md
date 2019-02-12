@@ -20,16 +20,17 @@ Python interface to Eclipse Scripting API: [https://github.com/VarianAPIs/PyESAP
 #notironpython
 
 ## MyVarian Webinars
-| Date     | Link                          | Presenter        |
-|----------|-------------------------------|------------------|
-| April 21, 2015     | [Write it the right way – an Introduction to Scripting](https://varian.force.com/apex/CpWebSummary?id=a0OE000000XlRbQMAV)                          | Wayne Keranen <br>Varian Medical Systems               |
-| June 10, 2015      | [Eclipse™ Scripting: The UAB Experience](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t07HKEAY)                                         | Rex Cardan, PhD <br>University of Alabama - Birmingham |
-| April 06, 2017     | [Eclipse Scripting API: A Guide for Beginners](https://varian.force.com/apex/CpWebSummary?id=a0O4400000rkenrEAA)                                   | Lane Hayes, PhD <br>Cone Health (Greensboro, NC)       |
-| December 13, 2017  | [Eclipse Scripting Quick Wins](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t07HKEAY)                                                   | Matt Schmidt <br>Varian Medical Systems                |
-| April 06, 2018     | [Eclipse Scripting: Introduction to Automation and Visual Scripting](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t0dKxEAI)             | Wayne Keranen <br>Varian Medical Systems               |
-| September 14, 2018 | [Dose/Volume Objective Reporting with Clinical Protocols, Scripting and More...](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4m9XEAQ) | Sean Hames <br>Varian Medical Systems                  |
-| October 16, 2018   | [Visual Scripting - Building Effective Action Packs](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4ntiEAA)                             | Matt Schmidt <br>Varian Medical Systems                |
-| November 14, 2018  | [Digging into DVH](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4tRVEAY)                                                               | Rex Cardan, PhD <br>University of Alabama - Birmingham |
+| Date | Link | Presenter |
+|-------|-------|-------|
+| April 21, 2015     | [Write it the right way – an Introduction to Scripting](https://varian.force.com/apex/CpWebSummary?id=a0OE000000XlRbQMAV) | Wayne Keranen, Varian Medical Systems |
+| June 10, 2015      | [Eclipse™ Scripting: The UAB Experience](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t07HKEAY) | Rex Cardan, PhD, University of Alabama - Birmingham |
+| April 06, 2017     | [Eclipse Scripting API: A Guide for Beginners](https://varian.force.com/apex/CpWebSummary?id=a0O4400000rkenrEAA) | Lane Hayes, PhD, Cone Health (Greensboro, NC) |
+| December 13, 2017  | [Eclipse Scripting Quick Wins](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t07HKEAY)| Matt Schmidt, Varian Medical Systems |
+| April 06, 2018     | [Eclipse Scripting: Introduction to Automation and Visual Scripting](https://varian.force.com/apex/CpWebSummary?id=a0O4400000t0dKxEAI) | Wayne Keranen, Varian Medical Systems |
+| September 14, 2018 | [Dose/Volume Objective Reporting with Clinical Protocols, Scripting and More...](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4m9XEAQ) | Sean Hames, Varian Medical Systems |
+| October 16, 2018   | [Visual Scripting - Building Effective Action Packs](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4ntiEAA) | Matt Schmidt, Varian Medical Systems |
+| November 14, 2018  | [Digging into DVH](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4tRVEAY) | Rex Cardan, PhD, University of Alabama - Birmingham |
+
 ## What's New
 **08/02/2018** Wiki Restored from CodePlex: [https://github.com/VarianAPIs/Varian-Code-Samples/wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wiki)
 
