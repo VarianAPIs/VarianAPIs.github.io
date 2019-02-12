@@ -6,6 +6,9 @@ Please check back often. We will be building out our content in the upcoming mon
 ### Varian Developer Support
 Please [create a new issue in our Varian Code Samples repo](https://github.com/VarianAPIs/Varian-Code-Samples/issues/new) or e-mail eclipsedeveloper@varian.com. Stay tuned for our new "live chat" gitter community.
 
+### Varian API Book
+[VarianApiBook.pdf](https://varianapis.github.io/VarianApiBook.pdf)
+
 ### Varian Code Samples
 Explore our code samples from past webinars and workshops here: [https://github.com/VarianAPIs/Varian-Code-Samples](https://github.com/VarianAPIs/Varian-Code-Samples)
 
