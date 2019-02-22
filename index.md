@@ -32,6 +32,8 @@ Python interface to Eclipse Scripting API: [https://github.com/VarianAPIs/PyESAP
 | November 14, 2018  | [Digging into DVH](https://varian.force.com/apex/CpWebSummary?id=a0O4400000u4tRVEAY) | Rex Cardan, PhD, University of Alabama - Birmingham |
 
 ## What's New
+**02/21/2019** Community driven forum to ask ESAPI developer questions, promote open source code, and engage in discussion involving clinical scripting posted to reddit.com in the [ESAPI SubReddit](https://www.reddit.com/r/esapi/)
+
 **08/02/2018** Wiki Restored from CodePlex: [https://github.com/VarianAPIs/Varian-Code-Samples/wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wiki)
 
 **04/04/2018** We've moved from CodePlex to GitHub, stay tuned! ([CodePlex Archive](https://archive.codeplex.com/?p=variandeveloper))
